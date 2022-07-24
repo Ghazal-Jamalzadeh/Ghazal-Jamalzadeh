@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ghazal-Jamalzadeh
 - 👀 I’m interested in android programming
-- 🌱 I’m currently learning java , kotlin , php
+- 🌱 I’m currently learning java , kotlin 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me --> Telegram --> @Jmzd_developer94
 
