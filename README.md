@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me --> Telegram --> @Jmzd_developer94
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghazal-Jamalzadeh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghazal-Jamalzadeh&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghazal-Jamalzadeh&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ##  find me here
