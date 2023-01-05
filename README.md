@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ghazal-Jamalzadeh
 - 👀 I’m interested in android programming
-- 🌱 I’m currently learning java , kotlin 
+- 🌱 I’m currently learning java, kotlin, flutter
 - 📫 How to reach me --> Telegram --> @Jmzd_developer94
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghazal-Jamalzadeh&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
