@@ -1,5 +1,5 @@
-# 💫 Android Developer:
-## 🪄 Java / Kotlin / Flutter
+# 💫 About Me:
+## 🪄 Android Developer (Java / Kotlin / Flutter) 
 📫 How to reach me:<br>
 ✅Telegram : @Jmzd_developer94<br>
 ✅Email : Jmzd.developer94@gmail.com<br>
