@@ -1,6 +1,8 @@
-# 💫 About Me:
-👋 Hi, I’m @Ghazal-Jamalzadeh<br>👀 I’m interested in android programming<br>🌱 I’m currently learning java, kotlin, flutter<br>📫 How to reach me --> Telegram --> @Jmzd_developer94
-
+# 💫 Android Developer:
+## 🪄 Java / Kotlin / Flutter
+📫 How to reach me:<br>
+✅Telegram : @Jmzd_developer94<br>
+✅Email : Jmzd.developer94@gmail.com<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ghazal_jmzd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ghazal-jamalzadeh) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11962518) 
