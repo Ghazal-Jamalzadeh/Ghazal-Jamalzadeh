@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=84C018&vCenter=true&width=435&lines=Android+Developer)](https://git.io/typing-svg)
+🪄[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=84C018&vCenter=true&width=435&lines=Android+Developer)](https://git.io/typing-svg)
 
 ## 🪄 Android Developer (Java / Kotlin / Flutter) 
 📫 How to reach me:<br>
