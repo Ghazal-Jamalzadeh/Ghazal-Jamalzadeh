@@ -1,8 +1,6 @@
 # 💫 About Me:
-
-🪄[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=84C018&vCenter=true&width=435&lines=Android+Developer)](https://git.io/typing-svg)
-
-## Android Developer (Java | Kotlin | Flutter) 
+## 🪄Android Developer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=84C018&vCenter=true&repeat=false&width=435&lines=Java+%7C+Kotlin+%7C+Flutter)](https://git.io/typing-svg)
 📫 How to reach me:<br>
 ✅Telegram : @Jmzd_developer94<br>
 ✅Email : Jmzd.developer94@gmail.com<br>
